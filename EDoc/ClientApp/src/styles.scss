@@ -1,0 +1,56 @@
+﻿@import "theme/theme.light";
+a {
+  color: $primaryColor;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: $primaryColor;
+  border-color: $primaryColor4;
+}
+.text-primary{
+  color:$primaryColor !important;
+}
+.bg-primary{
+  background-color: $primaryColor !important;
+}
+.text-grey{
+  color:$grey;
+}
+.bg-grey{
+  background-color: $grey;
+}
+
+.btn{
+}
+.btn.active{
+  color:$primaryColor !important;
+  border:none;
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}

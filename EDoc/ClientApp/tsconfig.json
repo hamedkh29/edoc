@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./Scripts/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ], 
+  "include": ["./declaration.d.ts"]
+}

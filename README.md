@@ -66,7 +66,7 @@ bashCopy code
 Usage
 -----
 
-To run the E Doc application, Open Visual Studio and click on run!
+To run the E Doc application, Open EDoc.sln file using Visual Studio and click on run!
 
 Technologies Used
 -----------------

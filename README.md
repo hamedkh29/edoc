@@ -41,27 +41,23 @@ Follow these steps to install and set up the E Doc application:
 
 1.  Clone the repository:
 
-bashCopy code
-
 `git clone https://github.com/hamedkh29/edoc.git`
 
 2.  Navigate to the project directory:
-
-bashCopy code
 
 `cd edoc`
 
 3.  Install the frontend dependencies:
 
-bashCopy code
-
 `cd ClientApp npm install`
 
 4.  Install the backend dependencies:
 
-bashCopy code
-
 `cd .. dotnet restore`
+
+5. Install Ghostscript:
+
+`Visit the official Ghostscript website at http://www.ghostscript.com/download/gsdnld.html and download the compatible version`
 
 Usage
 -----

@@ -101,6 +101,4 @@ Here are some potential areas for improvement in the E Doc application:
 *   Make it cross platform friendly.
 *   Deploy the application to a hosting environment for production use.
 *   Enhance cross-platform compatibility to ensure the application works seamlessly on different operating systems such as Windows, macOS, and Linux.
-These improvements can help enhance the functionality, performance, and usability of the E Doc application.
 
-* * *

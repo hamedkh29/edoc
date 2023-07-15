@@ -33,6 +33,7 @@ Before running the E Doc application, ensure you have the following software ins
 *   Node.js
 *   .NET SDK
 *   Ghostscript (for PDF preview) https://ghostscript.com/releases/gsdnld.html
+*   Windows OS
 
 Installation
 ------------
@@ -97,8 +98,9 @@ Here are some potential areas for improvement in the E Doc application:
 *   Improve error handling and provide informative error messages to users.
 *   Enhance the UI and user experience with additional styling and interactive features.
 *   Implement unit tests and integration tests to ensure the reliability and stability of the application.
+*   Make it cross platform friendly.
 *   Deploy the application to a hosting environment for production use.
-
+*   Enhance cross-platform compatibility to ensure the application works seamlessly on different operating systems such as Windows, macOS, and Linux.
 These improvements can help enhance the functionality, performance, and usability of the E Doc application.
 
 * * *
